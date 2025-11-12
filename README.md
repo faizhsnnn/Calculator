@@ -112,5 +112,4 @@ If you found this project useful or inspiring, please consider starring ⭐ the 
 🖋️ "Code is like math — elegant when simple, powerful when precise."
     print("Invalid operation! Try again.")
     continue
-```
 
